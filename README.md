@@ -1,2 +1,2 @@
 # App Commerce
-## Progressive App to study android developer
+## App to study android developer
